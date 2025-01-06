@@ -4,6 +4,7 @@ This repository contains software for integrating digital scales into Odoo Point
 
 ## Supported Scales
 - **TSX-60**
+- **Kern WC0639531**
 
 ## Contributing
 Contributions to improve scale support and new features are welcome! Please create a pull request with a description of the changes, and follow the existing structure when adding new scales.
